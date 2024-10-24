@@ -9,7 +9,6 @@ public class tugas2 {
 
         //deklarasi variable
         int jmlAtlet = 5;
-        String namaAtlet;
 
         //judul 
         System.out.println("=============================");
